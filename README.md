@@ -4,10 +4,10 @@
 2. TailwindCSS
 
 ## How to install dependencies and run the app
-1. clone the repository on your local disk using ***git clone <git-url>*** command and move to its location using ***cmd*** terminal
-2. using ***cd <folder_name>*** move to project location
-3. run  ***npm install*** command
-4. run ***npm run start*** command
+1. clone the repository on your local disk using ***git clone repository_url*** command and move to its location using ***cmd*** terminal.
+2. using ***cd <folder_name>*** move to project location.
+3. run  ***npm install*** command.
+4. run ***npm run start*** command.
 
 ## Approach
 ### The following assignment has been developed using the ***break-into-pieces technique***. This means the problem statement has been solved and developed the following application by splitting the problem statement into smaller pieces.
