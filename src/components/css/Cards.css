@@ -1,0 +1,18 @@
+.card{
+    box-shadow: 0.2vw 0.2vh 0.5vw 0.1vw rgba(0, 0, 0, 0.1);
+}
+
+.image{
+    border-radius: 50%;
+    box-shadow: 0.1vw 0.1vh 0.5vw 0.2vw rgba(0, 0, 0, 0.1);
+}
+
+.grid-pic{
+    width: 1.5vw;
+    height: 3vh;
+}
+
+.list-pic{
+    width: 1.5vw;
+    height: 3vh;
+}
