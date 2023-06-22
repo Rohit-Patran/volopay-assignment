@@ -3,7 +3,7 @@
 1. React.js
 2. TailwindCSS
 
-##Live Deployed application: https://volopay-card-layout.vercel.app/
+## Live Deployed application: https://volopay-card-layout.vercel.app/
 
 ## How to install dependencies and run the app
 1. clone the repository on your local disk using ***git clone repository_url*** command and move to its location using ***cmd*** terminal.
